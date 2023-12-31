@@ -1,1 +1,1 @@
-本文档基于[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)跟着做的笔记。
+本文档基于[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)跟着做的笔记，仅用于个人学习交流。
